@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vishal9412/food.git/static/css/main.39c4c226.css",
+    "main.js": "/Vishal9412/food.git/static/js/main.04d58a05.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Vishal9412/food.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Vishal9412/food.git/index.html",
+    "main.39c4c226.css.map": "/Vishal9412/food.git/static/css/main.39c4c226.css.map",
+    "main.04d58a05.js.map": "/Vishal9412/food.git/static/js/main.04d58a05.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Vishal9412/food.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39c4c226.css",
+    "static/js/main.04d58a05.js"
+  ]
+}
